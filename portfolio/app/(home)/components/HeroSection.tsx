@@ -8,7 +8,7 @@ export default function HeroSection() {
     <div className=" relative min-h-[60vh] flex flex-col-reverse gap-14 lg:gap-0 lg:flex-row items-center  justify-between">
       <div className="space-y-10 text-center lg:text-left  md:mx-40 p-5 z-10">
         <h1 className="text-4xl lg:text-7xl font-bold">
-          Hi there! <br/>I`&apos;`m Aziz Alexandros Tarek
+          Hi there! <br/>I&apos;m Aziz Alexandros Tarek
         </h1>
         <p className="md:w-96 text-lg text-gray-300">
           Engineer of elegant and efficient digital ecosystems, specializing in
